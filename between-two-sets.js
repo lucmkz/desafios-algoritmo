@@ -1,7 +1,5 @@
-// Link para o desafio
-// https://www.hackerrank.com/challenges/between-two-sets/
-
-//Solução
+// challange -> https://www.hackerrank.com/challenges/between-two-sets/
+// solution -> https://youtu.be/LNQ0bvbfq7s
 
 function getTotalX(a, b) {
     const largestNumber = Math.max(...b)
