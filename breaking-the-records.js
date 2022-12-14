@@ -1,4 +1,5 @@
-// https://www.hackerrank.com/challenges/breaking-best-and-worst-records
+// challange -> https://www.hackerrank.com/challenges/breaking-best-and-worst-records
+// solution -> https://youtu.be/VYvdtAOWyUU
 
 function breakingRecords(scores) {
     // Write your code here
